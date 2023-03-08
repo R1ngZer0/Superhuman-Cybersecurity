@@ -1,0 +1,3 @@
+From the following text, provide a summary of the security posture for the device scanned, the average CVSS score, the highest CVSS score, and the top 3 mitigation recommendations:
+
+<<INPUT>>
