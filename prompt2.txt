@@ -1,4 +1,0 @@
-Give me an analysis of the following Nessus scan:
-
-<<INPUT>>
-
