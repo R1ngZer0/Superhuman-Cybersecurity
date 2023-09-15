@@ -1,4 +1,4 @@
-#CyberSuperhuman.ai Code Repository
+# CyberSuperhuman.ai Code Repository
 Code and prompts used in my courses and YouTube videos:
 
 https://cybersuperhuman.ai
